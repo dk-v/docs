@@ -1,16 +1,23 @@
+---
+noIndex: true
+coverY: 0
+coverHeight: 167
+---
+
 # Mintlify Starter Kit
 
 Use the starter kit to get your docs deployed and ready to customize.
 
 Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
+* Guide pag[^1]es
+* Navigation
+* Customizations
+* API reference pages
+* Use of pop[ular compon](#user-content-fn-2)[^2]ents
+* Das ist ein Test&#x20;
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+[**Follow the full quickstart guide**](https://starter.mintlify.com/quickstart)
 
 ## AI-assisted writing
 
@@ -22,7 +29,7 @@ npx skills add https://mintlify.com/docs
 
 This command installs Mintlify's documentation skill for your configured AI tools like Claude Code, Cursor, Windsurf, and others. The skill includes component reference, writing standards, and workflow guidance.
 
-See the [AI tools guides](/ai-tools) for tool-specific setup.
+See the [AI tools guides](ai-tools/) for tool-specific setup.
 
 ## Development
 
@@ -48,8 +55,13 @@ Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/sett
 
 ### Troubleshooting
 
-- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
-- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
+* If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
+* If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
 
 ### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
+
+* [Mintlify documentation](https://mintlify.com/docs)
+
+[^1]: This is an annotation.
+
+[^2]: Annotation
