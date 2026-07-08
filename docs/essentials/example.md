@@ -4,7 +4,7 @@ description: "Write once, reuse everywhere. Use snippets to keep content in sync
 icon: "recycle"
 ---
 
-Das ist ein Test.
+Das ist ein Test für den Gitbook Sync.
 
 ```C#
 string[] addresses = { "123 Elm Street", "531 Oak Street", "678 Maple Street" };
